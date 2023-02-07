@@ -1,0 +1,5 @@
+assistant:
+  - name: 'name'
+    url: https://example.com/
+    apiKey: apiKey
+    workspaceID: workspaceID
